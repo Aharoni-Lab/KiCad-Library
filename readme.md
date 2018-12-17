@@ -25,10 +25,10 @@ You will need [KiCad v5.x](http://kicad-pcb.org/) to use these libraries. We als
 ** Add Nickname and Library Path
 
 For example
-'''
+```
 Nickname : .Device
 Library Path : ${KICAD_AHARONI_LAB}/Libraries/.Device.lib
-'''
+```
 
 
 
