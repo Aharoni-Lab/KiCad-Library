@@ -40,5 +40,5 @@ End with an example of getting some data out of the system or using it for a lit
 
 * **Daniel Aharoni** - *Initial work* - [DAharoni](https://github.com/DAharoni)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Aharoni-Lab/KiCad-Library/contributors) who participated in this project.
 
