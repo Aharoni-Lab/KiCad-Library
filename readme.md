@@ -15,14 +15,14 @@ You will need [KiCad v5.x](http://kicad-pcb.org/) to use these libraries. We als
 ### Installing
 * Clone KiCad-Library to local computer. We suggest placing it in the KiCad documents folder "documents/kicad/".
 * To simplify adding each schematic and footprint library to KiCad, we suggest creating a new PATH pointing to the local location of the cloned repo. 
- * In Kicad, preferences -> Configure Paths
- * "Add"
- * Create a name like "KICAD_AHARONI_LAB" along with the path pointing to the root directory of this repo.
+  * In Kicad, preferences -> Configure Paths
+  * "Add"
+  * Create a name like "KICAD_AHARONI_LAB" along with the path pointing to the root directory of this repo.
 * Now you will need to add the name and location of each library to KiCad.
- * Click "Symbolic Library Editor"
- * Preferences -> Manage Symbol Libraries
- * Click "Append Library"
- * Add Nickname and Library Path
+  * Click "Symbolic Library Editor"
+  * Preferences -> Manage Symbol Libraries
+  * Click "Append Library"
+  * Add Nickname and Library Path
 
 For example
 ```
