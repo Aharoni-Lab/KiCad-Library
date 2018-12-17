@@ -14,21 +14,14 @@ You will need [KiCad v5.x](http://kicad-pcb.org/) to use these libraries. We als
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
 
-```
-Give the example
-```
+## Contributing Requirements
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+* [KiCad library conventions](http://kicad-pcb.org/libraries/klc/) should be followed whenever posisble.
+* All footprints should be generated in PCB Library Expert and the footprint file should denote "_M", "_N", "_L" for most, nominal, and least footprint size respectively. Generally we make all footprints that will be assembled with a PnP machine with the least footprint setting to minimize their size.
+* Atomic component conventions should be followed whenever you have a specific component and not a generic symbol.
+* While KiCad comes with a bunch of part schematics and footprints, all components used in lab should be placed in this KiCad-Library with the correct PCB Library Expert footprint.
 
 ## Built With
 
