@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TPL0102-100RUCR
+D IC DGTL POT 256POS 100K DL 14QFN
+K Digipot
+F http://www.ti.com/lit/ds/symlink/tpl0102-100.pdf
+$ENDCMP
+#
 #End Doc Library
