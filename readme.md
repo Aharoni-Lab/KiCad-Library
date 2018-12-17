@@ -19,7 +19,7 @@ You will need [KiCad v5.x](http://kicad-pcb.org/) to use these libraries. We als
   * "Add"
   * Create a name like "KICAD_AHARONI_LAB" along with the path pointing to the root directory of this repo.
 * Now you will need to add the name and location of each library to KiCad.
-  * Click "Symbolic Library Editor"
+  * Click "Symbol Library Editor"
   * Preferences -> Manage Symbol Libraries
   * Click "Append Library"
   * Add Nickname and Library Path
@@ -30,7 +30,8 @@ Nickname : .Device
 Library Path : ${KICAD_AHARONI_LAB}/Libraries/.Device.lib
 ```
 
-
+* Now do the exact same thing but for the **Footprint Libraries** using the "Footprint Library Editor".
+* **NOTE** : All symbol and footprint library Nicknames should be prefixed with a ".". This will cause them to show up at the top of the library lists and also make it so these libraries do not conflict with the included KiCad libraries.
 
 ## Contributing Requirements
 
