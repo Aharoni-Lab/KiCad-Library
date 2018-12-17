@@ -4,7 +4,8 @@ KiCad-Library holds the schematics and footprints for all components used in the
 
 ## Getting Started
 
-Clone KiCad-Library to your local computer. We suggest placing it in "documents/KiCad/" where it will be along side your other user created files. You will then need to add the schematic and footprint library paths to KiCad. We suggest configuring a new path as something like "KICAD_AHARONI_LAB" with the path to the location to this repo an then using "KICAD_AHARONI_LAB" for each library path.
+* Clone KiCad-Library to your local computer. We suggest placing it in "documents/KiCad/" where it will be along side your other user created files. You will then need to add the schematic and footprint library paths to KiCad. 
+* We suggest configuring a new path as something like "KICAD_AHARONI_LAB" with the path to the location to this repo an then using "KICAD_AHARONI_LAB" for each library path.
 
 ### Prerequisites
 
