@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADL3225V-470MT-TL000
+D FIXED IND 47UH 500MA 900 MOHM
+K inductor
+F https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_decoupling_adl3225v_en.pdf
+$ENDCMP
+#
+#End Doc Library

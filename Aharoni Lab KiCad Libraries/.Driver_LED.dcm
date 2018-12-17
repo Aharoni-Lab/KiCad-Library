@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC3218
+D IC LED DRIVER RGLTR 150MA 10DFN
+K LED Driver
+F http://www.linear.com/docs/19518
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV7103318DSER
+D Dual, 200mA, Low-Iq, Low-Dropout Regulator, Fixed Output 3.3V and 1.8V, SON-6
+K LDO Dual Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tlv711.pdf
+$ENDCMP
+#
+$CMP TLV7111225DSER
+D Dual, 200mA, Low-Iq, Low-Dropout Regulator, Fixed Output 1.2V and 2.5V, SON-6
+K LDO Dual Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tlv711.pdf
+$ENDCMP
+#
+#End Doc Library
