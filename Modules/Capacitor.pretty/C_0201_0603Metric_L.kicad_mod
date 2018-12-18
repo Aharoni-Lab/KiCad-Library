@@ -1,4 +1,4 @@
-(module C_0201_0603Metric_L (layer F.Cu) (tedit 5C16ECD2)
+(module C_0201_0603Metric_L (layer F.Cu) (tedit 5C18ACD5)
   (descr "Capacitor, Chip; 0.60 mm L X 0.30 mm W X 0.33 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.Fab)
@@ -35,9 +35,9 @@
   (fp_line (start 0 -0.135) (end 0 0.135) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -0.275 0) (size 0.31 0.34) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.275 0) (size 0.31 0.34) (layers F.Cu F.Paste F.Mask))
-  (model "${KICAD_AHARONI_LAB}/Aharoni Lab KiCad Modules/Capacitor.pretty/C_0201_0603Metric_L.STEP"
-    (offset (xyz 0 -0.165 0))
+  (model ${KICAD_AHARONI_LAB}/Modules/Capacitor.pretty/C_0201_0603Metric_L.STEP
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )

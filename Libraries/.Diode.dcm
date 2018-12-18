@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAS316
+D DIODE GEN PURP 100V 250MA SOD323
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# BAS316
+#
+DEF BAS316 D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "BAS316" -150 -80 50 H V L CNN
+F2 ".Diode:SOD_323_250X125X110L30X32L" -250 150 50 H I C CNN
+F3 "" 0 0 50 V I C CNN
+$FPLIST
+ *_Diode_*
+ *SingleDiode*
+ D_*
+ SOD?323*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 -30 0 30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 F
+X A A 100 0 70 L 50 50 1 1 P
+X C C -100 0 70 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

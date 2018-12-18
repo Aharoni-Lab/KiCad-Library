@@ -1,4 +1,4 @@
-(module L_1210_3225Metric_L (layer F.Cu) (tedit 5C1729E0)
+(module L_1210_3225Metric_L (layer F.Cu) (tedit 5C18AC7F)
   (descr "Inductor, Chip; 3.20 mm L X 2.50 mm W X 2.60 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.Fab)
@@ -37,9 +37,9 @@
   (fp_line (start 0 -0.35) (end 0 0.35) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.525 0) (size 0.87 2.62) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.525 0) (size 0.87 2.62) (layers F.Cu F.Paste F.Mask))
-  (model "${KICAD_AHARONI_LAB}/Aharoni Lab KiCad Modules/Inductor.pretty/L_1210_3225Metric_L.STEP"
-    (offset (xyz 0 -1.3 0))
+  (model ${KICAD_AHARONI_LAB}/Modules/Inductor.pretty/L_1210_3225Metric_L.STEP
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )

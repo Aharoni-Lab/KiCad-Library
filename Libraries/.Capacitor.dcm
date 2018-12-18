@@ -24,4 +24,9 @@ K capacitor cap
 F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J106ME15-01.pdf
 $ENDCMP
 #
+$CMP GRM155R60J475ME87D
+D CAP CER 4.7UF 6.3V X5R 0402
+K capacitor cap
+$ENDCMP
+#
 #End Doc Library
