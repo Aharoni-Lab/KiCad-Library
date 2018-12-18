@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ERJ-1GEF1022C
+D RES SMD 10.2K OHM 1% 1/20W 0201
+K r resistor
+F https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Resistors%20Thermistors%20PDFs/ERJ-G,R,E_Series_Rev_Oct_2014.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -1,9 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP LED
-D Light emitting diode, small symbol, filled shape
+$CMP LXZ1-PR01
+D LED LUXEON Z RYL BLUE 450NM 2SMD
 K LED diode light-emitting-diode
-F ~
+F https://www.lumileds.com/uploads/415/DS105-pdf
 $ENDCMP
 #
 #End Doc Library

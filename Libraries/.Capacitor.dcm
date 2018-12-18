@@ -12,6 +12,12 @@ K capacitor cap
 F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61A104ME15-01.pdf
 $ENDCMP
 #
+$CMP GRM033R61A225ME47D
+D CAP CER 2.2UF 10V X5R 0201
+K capacitor cap
+F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61A225ME47-01.pdf
+$ENDCMP
+#
 $CMP GRM033R71A103KA01D
 D CAP CER 10nF 10V X7R 0201
 K capacitor cap
