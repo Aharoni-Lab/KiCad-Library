@@ -1,4 +1,4 @@
-(module SON_11_P50_300X200X80L40X25T239X64L (layer F.Cu) (tedit 5C172EBD)
+(module SON_11_P50_300X200X80L40X25T239X64L (layer F.Cu) (tedit 5C18A41E)
   (descr "Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 10 pin, 3.00 mm L X 2.00 mm W X 0.80 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.Fab)
@@ -98,7 +98,7 @@
   (pad 9 smd rect (at -0.5 -0.84 90) (size 0.64 0.27) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at -1 -0.84 90) (size 0.64 0.27) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at 0 0 90) (size 0.64 2.39) (layers F.Cu F.Paste F.Mask))
-  (model "${KICAD_AHARONI_LAB}/Aharoni Lab KiCad Modules/Package_SON.pretty/SON_11_P50_300X200X80L40X25T239X64L.STEP"
+  (model ${KICAD_AHARONI_LAB}/Modules/Package_SON.pretty/SON_11_P50_300X200X80L40X25T239X64L.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

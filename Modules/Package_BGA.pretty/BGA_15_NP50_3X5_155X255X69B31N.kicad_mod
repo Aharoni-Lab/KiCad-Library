@@ -1,4 +1,4 @@
-(module BGA_15_NP50_3X5_155X255X69B31N (layer F.Cu) (tedit 5C171862)
+(module BGA_15_NP50_3X5_155X255X69B31N (layer F.Cu) (tedit 5C18A3EA)
   (descr "Ball Grid Array (BGA), 0.50 mm pitch, rect.; 15 pin, 1.55 mm L X 2.555 mm W X 0.69 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.Fab)
@@ -63,7 +63,7 @@
   (pad C3 smd circle (at 0 0.5) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad C4 smd circle (at 0.5 0.5) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad C5 smd circle (at 1 0.5) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
-  (model "${KICAD_AHARONI_LAB}/Aharoni Lab KiCad Modules/Package_BGA.pretty/BGA_15_NP50_3X5_155X255X69B31N.STEP"
+  (model ${KICAD_AHARONI_LAB}/Modules/Package_BGA.pretty/BGA_15_NP50_3X5_155X255X69B31N.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
