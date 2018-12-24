@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0475710001
+D CONN MICRO SD CARD PUSH-PULL R/A
+K Micro SD Card Mount
+F https://www.molex.com/pdm_docs/sd/475710001_sd.pdf
+$ENDCMP
+#
+$CMP 232-5205-01
+D CONN SOCKET QFN 32POS GOLD
+K qfn32 socket
+F http://multimedia.3m.com/mws/media/785857O/3mtm-textooltm-open-top-sockets-for-qfn-applications-cd2468.pdf
+$ENDCMP
+#
 $CMP Conn_01x01
 D Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
