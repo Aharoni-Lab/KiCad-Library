@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS90UB933-Q1
+D IC SERIALIZER FPD-LINK 32WQFN
+K SERDES
+F http://www.ti.com/lit/ds/symlink/ds90ub933-q1.pdf
+$ENDCMP
+#
+$CMP DS90UB934-Q1
+D IC DESERIALIZER 12 BIT 48-VQFN
+K SERDES
+F http://www.ti.com/lit/ds/symlink/ds90ub934-q1.pdf
+$ENDCMP
+#
+#End Doc Library
