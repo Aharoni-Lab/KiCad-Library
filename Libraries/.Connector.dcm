@@ -12,6 +12,11 @@ K qfn32 socket
 F http://multimedia.3m.com/mws/media/785857O/3mtm-textooltm-open-top-sockets-for-qfn-applications-cd2468.pdf
 $ENDCMP
 #
+$CMP BTE-040-01-L-D-A
+D 80 Position Connector Header, Outer Shroud Contacts Surface Mount Gold
+F http://suddendocs.samtec.com/catalog_english/bte.pdf
+$ENDCMP
+#
 $CMP Conn_01x01
 D Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
