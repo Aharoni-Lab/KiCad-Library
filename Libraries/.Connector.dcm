@@ -12,6 +12,11 @@ K qfn32 socket
 F http://multimedia.3m.com/mws/media/785857O/3mtm-textooltm-open-top-sockets-for-qfn-applications-cd2468.pdf
 $ENDCMP
 #
+$CMP A79623-001
+D Omnetics 2x6 Horizontal Nano Miniature Polarized PZN COTS
+F https://www.omnetics.com/Portals/0/Files/PartNo/A79623-001.pdf
+$ENDCMP
+#
 $CMP BTE-040-01-L-D-A
 D 80 Position Connector Header, Outer Shroud Contacts Surface Mount Gold
 F http://suddendocs.samtec.com/catalog_english/bte.pdf

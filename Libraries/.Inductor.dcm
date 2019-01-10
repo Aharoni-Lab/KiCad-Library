@@ -6,6 +6,12 @@ K inductor
 F https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_decoupling_adl3225v_en.pdf
 $ENDCMP
 #
+$CMP BLM18PG471SN1D
+D FERRITE BEAD 470 OHM 0603 1LN
+K inductor
+F https://www.murata.com/en-us/products/productdata/8796738650142/ENFA0003.pdf
+$ENDCMP
+#
 $CMP LQM18PN3R3MGHD
 D FIXED IND 3.3UH 1.05A 250 MOHM
 K inductor

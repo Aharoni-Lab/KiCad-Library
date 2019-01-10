@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS90LV017A
+D IC DRIVER SINGLE HS DIFF 8-SOIC
+K LVDS Transmitter
+F http://www.ti.com/lit/ds/symlink/ds90lv017a.pdf
+$ENDCMP
+#
+$CMP DS90LV018A
+D IC LINE RVR LVDS SINGL DIF 8SOIC
+K LVDS Reciever
+F http://www.ti.com/lit/ds/symlink/ds90lv018a.pdf
+$ENDCMP
+#
+#End Doc Library

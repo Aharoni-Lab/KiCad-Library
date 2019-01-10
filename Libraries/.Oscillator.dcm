@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ABM8G-12.000MHZ-4Y-T3
+D CRYSTAL 12.0000MHZ 10PF SMD
+K quartz ceramic resonator oscillator
+F https://abracon.com/Resonators/ABM8G.pdf
+$ENDCMP
+#
 #End Doc Library

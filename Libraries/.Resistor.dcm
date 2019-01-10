@@ -6,4 +6,10 @@ K r resistor
 F https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Resistors%20Thermistors%20PDFs/ERJ-G,R,E_Series_Rev_Oct_2014.pdf
 $ENDCMP
 #
+$CMP ERJ-2RKF1000X
+D RES SMD 100 OHM 1% 1/10W 0402
+K r resistor
+F https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Resistors%20Thermistors%20PDFs/ERJ-G,R,E_Series_Rev_Oct_2014.pdf
+$ENDCMP
+#
 #End Doc Library

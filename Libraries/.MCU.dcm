@@ -6,4 +6,16 @@ K MCU, ARM
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589960
 $ENDCMP
 #
+$CMP ATSAMV71Q21B-AABT
+D ARM® Cortex®-M7 Automotive, AEC-Q100, SAM V71 Microcontroller IC 32-Bit 300MHz 2MB (2M x 8) FLASH 144-LQFP (20x20)
+K MCU, ARM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-E70S70V70V71-Family-DataSheet-DS60001527C.pdf
+$ENDCMP
+#
+$CMP ATmega328-MU
+D IC MCU 8BIT 32KB FLASH 32VQFN
+K MCU
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf
+$ENDCMP
+#
 #End Doc Library
