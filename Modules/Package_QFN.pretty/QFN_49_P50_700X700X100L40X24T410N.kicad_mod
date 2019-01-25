@@ -1,4 +1,4 @@
-(module QFN_49_P50_700X700X100L40X24T410N (layer F.Cu) (tedit 5C271D01)
+(module QFN_49_P50_700X700X100L40X24T410N (layer F.Cu) (tedit 5C492D32)
   (descr "Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 12 pin X 12 pin, 7.00 mm L X 7.00 mm W X 1.00 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.Fab)
@@ -246,6 +246,7 @@
   (fp_line (start -3.08 3.975) (end 3.08 3.975) (layer F.CrtYd) (width 0.05))
   (fp_line (start 3.08 3.975) (end 3.08 3.78) (layer F.CrtYd) (width 0.05))
   (fp_line (start 3.08 3.78) (end 3.78 3.78) (layer F.CrtYd) (width 0.05))
+  (fp_poly (pts (xy -3.5 3.1) (xy -3.1 3.1) (xy -3.1 3.5) (xy -3.5 3.5)) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -2.75 3.385 90) (size 0.78 0.26) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.25 3.385 90) (size 0.78 0.26) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.75 3.385 90) (size 0.78 0.26) (layers F.Cu F.Paste F.Mask))
@@ -305,4 +306,9 @@
   (pad "" smd rect (at -1.37 -1.37 90) (size 1.17 1.17) (layers F.Paste))
   (pad "" smd rect (at 1.37 -1.37 90) (size 1.17 1.17) (layers F.Paste))
   (pad "" smd rect (at 0 -1.37 90) (size 1.17 1.17) (layers F.Paste))
+  (model ${KICAD_AHARONI_LAB}/Modules/Package_QFN.pretty/QFN_49_P50_700X700X100L40X24T410N.STEP
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

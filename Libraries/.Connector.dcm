@@ -40,6 +40,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP QTH-090-02-F-D-A
+D 	180 Position Connector Header, Outer Shroud Contacts Surface Mount Gold
+K HSMC Samtec
+F http://suddendocs.samtec.com/catalog_english/qth.pdf
+$ENDCMP
+#
 $CMP TestPoint
 D test point
 K test point tp
