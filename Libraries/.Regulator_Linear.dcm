@@ -12,4 +12,16 @@ K LDO Dual Regulator Fixed Positive
 F http://www.ti.com/lit/ds/symlink/tlv711.pdf
 $ENDCMP
 #
+$CMP TPS7A33
+D IC REG LINEAR NEG ADJ 1A 20VQFN
+K LDO
+F http://www.ti.com/lit/ds/symlink/tps7a33.pdf
+$ENDCMP
+#
+$CMP TPS7A47
+D IC REG LINEAR POS ADJ 1A 20VQFN
+K LDO
+F http://www.ti.com/lit/ds/symlink/tps7a47.pdf
+$ENDCMP
+#
 #End Doc Library

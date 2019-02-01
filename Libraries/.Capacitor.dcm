@@ -24,6 +24,12 @@ K capacitor cap
 F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R71A103KA01-01.pdf
 $ENDCMP
 #
+$CMP GRM153R60J105ME95D
+D CAP CER 1UF 6.3V X5R 0402
+K capacitor cap
+F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61A104ME15-01.pdf
+$ENDCMP
+#
 $CMP GRM1555C1H120JA01D
 D CAP CER 12PF 50V C0G/NP0 0402
 K capacitor cap
@@ -49,6 +55,18 @@ $ENDCMP
 #
 $CMP GRM155R71A104JA01D
 D CAP CER 0.1UF 10V X7R 0402
+K capacitor cap
+F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61A104ME15-01.pdf
+$ENDCMP
+#
+$CMP GRM155R71E103KA01D
+D CAP CER 10000PF 25V X7R 0402
+K capacitor cap
+F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61A104ME15-01.pdf
+$ENDCMP
+#
+$CMP GRM155R71E473KA88D
+D CAP CER 0.047UF 25V X7R 0402
 K capacitor cap
 F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61A104ME15-01.pdf
 $ENDCMP

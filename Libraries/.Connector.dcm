@@ -40,10 +40,22 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP FMC_VITA_160
+D CONN RCPT 160POS SMD VITA 57.1
+K FMA VITA
+F http://suddendocs.samtec.com/prints/asp-134603-01.pdf
+$ENDCMP
+#
 $CMP QTH-090-02-F-D-A
 D 	180 Position Connector Header, Outer Shroud Contacts Surface Mount Gold
 K HSMC Samtec
 F http://suddendocs.samtec.com/catalog_english/qth.pdf
+$ENDCMP
+#
+$CMP SMA-J-P-H-RA-TH1
+D CONN SMA JACK R/A 50 OHM PCB
+K SMA coaxial connector
+F http://suddendocs.samtec.com/catalog_english/sma.pdf
 $ENDCMP
 #
 $CMP TestPoint
