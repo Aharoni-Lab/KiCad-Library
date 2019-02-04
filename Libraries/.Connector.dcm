@@ -40,13 +40,31 @@ K connector
 F ~
 $ENDCMP
 #
-$CMP FMC_VITA_160
+$CMP FMC_VITA_160_Female
 D CONN RCPT 160POS SMD VITA 57.1
 K FMA VITA
 F http://suddendocs.samtec.com/prints/asp-134603-01.pdf
 $ENDCMP
 #
+$CMP FMC_VITA_160_Male
+D CONN HDR 160POS SMD VITA 57.1
+K FMA VITA
+F http://suddendocs.samtec.com/prints/asp-134604-01.pdf
+$ENDCMP
+#
 $CMP QTH-090-02-F-D-A
+D 	180 Position Connector Header, Outer Shroud Contacts Surface Mount Gold
+K HSMC Samtec
+F http://suddendocs.samtec.com/catalog_english/qth.pdf
+$ENDCMP
+#
+$CMP QTH-090-02-F-D-A_0-ZEM4310-J1
+D 	180 Position Connector Header, Outer Shroud Contacts Surface Mount Gold
+K HSMC Samtec
+F http://suddendocs.samtec.com/catalog_english/qth.pdf
+$ENDCMP
+#
+$CMP QTH-090-02-F-D-A_0-ZEM4310-J2
 D 	180 Position Connector Header, Outer Shroud Contacts Surface Mount Gold
 K HSMC Samtec
 F http://suddendocs.samtec.com/catalog_english/qth.pdf

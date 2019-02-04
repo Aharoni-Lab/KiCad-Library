@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ZEM4310
+#
+DEF ZEM4310 U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "ZEM4310" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -300 250 300 -300 0 1 0 f
+ENDDRAW
+ENDDEF
+#
+#End Library

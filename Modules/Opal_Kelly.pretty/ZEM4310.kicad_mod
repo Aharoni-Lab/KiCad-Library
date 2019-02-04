@@ -1,0 +1,13 @@
+(module ZEM4310 (layer F.Cu) (tedit 5C5645B7)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value ZEM4310 (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (model ${KICAD_AHARONI_LAB}/Modules/Opal_Kelly.pretty/ZEM4310.STEP
+    (offset (xyz 0 0 6.984999895095826))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 5 0 0))
+  )
+)

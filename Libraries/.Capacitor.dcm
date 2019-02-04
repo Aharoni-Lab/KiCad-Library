@@ -1,5 +1,35 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CL32A476KOJNNNE
+D CAP CER 47UF 16V X5R 1210
+K capacitor cap
+F http://www.samsungsem.com/kr/support/product-search/mlcc/CL32A476KOJNNNE.jsp
+$ENDCMP
+#
+$CMP GCJ188R71E104KA12D
+D CAP CER 0.1UF 25V X7R 0603
+K capacitor cap
+F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCJ188R71E104KA12-01.pdf
+$ENDCMP
+#
+$CMP GCM155R71E103KA37D
+D CAP CER 10000PF 25V X7R 0402
+K capacitor cap
+F http://psearch.en.murata.com/capacitor/product/GCM155R71E103KA37%23.pdf
+$ENDCMP
+#
+$CMP GCM21BR71E105KA56L
+D CAP CER 1UF 25V X7R 0805
+K capacitor cap
+F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM21BR71E105KA56-01.pdf
+$ENDCMP
+#
+$CMP GQM1875C2E101JB12D
+D CAP CER 100PF 250V C0G/NP0 0603
+K capacitor cap
+F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GQM1875C2E101JB12-01.pdf
+$ENDCMP
+#
 $CMP GRM033R60J105MEA2D
 D CAP CER 1UF 6.3V X5R 0201
 K capacitor cap
@@ -75,6 +105,36 @@ $CMP GRM155R71H102KA01D
 D CAP CER 1000PF 50V X7R 0402
 K capacitor cap
 F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61A104ME15-01.pdf
+$ENDCMP
+#
+$CMP GRM188R61E475KE11D
+D CAP CER 4.7UF 25V X5R 0603
+K capacitor cap
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us
+$ENDCMP
+#
+$CMP GRM21BR61C226ME44L
+D CAP CER 22UF 16V X5R 0805
+K capacitor cap
+F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61C226ME44-01.pdf
+$ENDCMP
+#
+$CMP GRM21BR61E106MA73L
+D CAP CER 10UF 25V X5R 0805
+K capacitor cap
+F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61E106MA73-01.pdf
+$ENDCMP
+#
+$CMP TPSC107K010R0200
+D CAP TANT 100UF 10% 10V 2312
+K cap capacitor
+F http://datasheets.avx.com/TPS.pdf
+$ENDCMP
+#
+$CMP TPSD337K010R0065
+D CAP TANT 330UF 10% 10V 2917
+K cap capacitor
+F http://datasheets.avx.com/TPS.pdf
 $ENDCMP
 #
 #End Doc Library
