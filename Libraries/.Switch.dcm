@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADGS5414
+D IC SWITCH SPST OCTAL 24-LFCSP
+K SPST Switch
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADGS5414.pdf
+$ENDCMP
+#
+#End Doc Library
