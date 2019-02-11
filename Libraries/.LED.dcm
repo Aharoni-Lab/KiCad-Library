@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LTST-C155GEKT
+D Dual LED, cathodes on pins 3 and 4
+K LED diode bicolor dual
+F https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C155GEKT.pdf
+$ENDCMP
+#
 $CMP LXZ1-PR01
 D LED LUXEON Z RYL BLUE 450NM 2SMD
 K LED diode light-emitting-diode

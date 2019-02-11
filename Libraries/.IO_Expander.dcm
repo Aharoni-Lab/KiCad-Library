@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCF8574
+D IC I/O EXPANDER I2C 8B 20TSSOP
+K I2C Expander
+F http://www.ti.com/lit/ds/symlink/pcf8574.pdf
+$ENDCMP
+#
+$CMP PCF8574A
+D 8 Bit Port/Expander to I2C Bus, DIP/SOIC-16
+K I2C Expander
+F http://www.nxp.com/documents/data_sheet/PCF8574_PCF8574A.pdf
+$ENDCMP
+#
+#End Doc Library
