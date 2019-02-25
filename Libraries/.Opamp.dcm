@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV333IDBVR
+D IC OP AMP ZERO-DRIFT CMOS SOT-23
+K single opamp
+F http://www.ti.com/lit/ds/symlink/tlv333.pdf
+$ENDCMP
+#
+#End Doc Library
