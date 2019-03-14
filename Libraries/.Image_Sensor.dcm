@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NOIP1SN0480A
+D PYTHON 0.48 Megapixel
+K CMOS Imaging Sensor
+F https://www.onsemi.com/pub/Collateral/NOIP1SN0480A-D.PDF
+$ENDCMP
+#
 #End Doc Library
