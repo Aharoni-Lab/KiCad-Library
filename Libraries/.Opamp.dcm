@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LMV321IDCKR
+D Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOT-23-5/SC-70-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
 $CMP TLV333IDBVR
 D IC OP AMP ZERO-DRIFT CMOS SOT-23
 K single opamp
