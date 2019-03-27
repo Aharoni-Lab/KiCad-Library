@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMBT3904LP-7B
+D TRANS NPN 40V 0.2A DFN1006-3
+K NPN Transistor
+F https://www.diodes.com/assets/Datasheets/ds31835.pdf
+$ENDCMP
+#
+#End Doc Library
