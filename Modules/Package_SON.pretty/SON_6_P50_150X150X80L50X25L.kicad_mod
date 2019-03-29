@@ -1,4 +1,4 @@
-(module SON_6_P50_150X150X80L50X25L (layer F.Cu) (tedit 5C170528)
+(module SON_6_P50_150X150X80L50X25L (layer F.Cu) (tedit 5C9E9716)
   (descr "Small Outline No-Lead (SON), 0.50 mm pitch; 6 pin, 1.50 mm L X 1.50 mm W X 0.80 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.Fab)
@@ -65,7 +65,7 @@
   (pad 4 smd rect (at 0.5 -0.53 90) (size 0.74 0.27) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0 -0.53 90) (size 0.74 0.27) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -0.5 -0.53 90) (size 0.74 0.27) (layers F.Cu F.Paste F.Mask))
-  (model "${KICAD_AHARONI_LAB}/Aharoni Lab KiCad Modules/Package_SON.pretty/SON_6_P50_150X150X80L50X25L.STEP"
+  (model ${KICAD_AHARONI_LAB}/Modules/Package_SON.pretty/SON_6_P50_150X150X80L50X25L.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

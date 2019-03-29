@@ -1,4 +1,4 @@
-(module BGA88CP50_8X11_493X613X75B25 (layer F.Cu) (tedit 5C89F778)
+(module BGA88CP50_8X11_493X613X75B25 (layer F.Cu) (tedit 5C9E9761)
   (descr "Ball Grid Array (BGA), 0.50 mm pitch, rect.; 88 pin, 4.93 mm L X 6.13 mm W X 0.75 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0.7 4.525) (layer F.Fab)
