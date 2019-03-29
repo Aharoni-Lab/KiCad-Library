@@ -1,4 +1,4 @@
-(module SON_4_P300_395X395X90L55X35L (layer F.Cu) (tedit 5C9E96FE)
+(module SON_4_P300_395X395X90L55X35L (layer F.Cu) (tedit 5C9EA792)
   (descr "Small Outline No-Lead (SON), 3.00 mm pitch; 4 pin, 3.95 mm L X 3.95 mm W X 0.90 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
@@ -56,9 +56,9 @@
   (fp_line (start 1.785 2.24) (end 1.785 2.13) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.785 2.13) (end 2.13 2.13) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.5 1.735 90) (size 0.81 0.37) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 1.5 1.735 90) (size 0.81 0.37) (layers F.Cu F.Paste F.Mask))
-  (pad 3 smd rect (at 1.5 -1.735 90) (size 0.81 0.37) (layers F.Cu F.Paste F.Mask))
-  (pad 4 smd rect (at -1.5 -1.735 90) (size 0.81 0.37) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 1.5 1.735 90) (size 0.81 0.37) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 1.5 -1.735 90) (size 0.81 0.37) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at -1.5 -1.735 90) (size 0.81 0.37) (layers F.Cu F.Paste F.Mask))
   (model ${KICAD_AHARONI_LAB}/Modules/Package_SON.pretty/SON_4_P300_395X395X90L55X35L.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
