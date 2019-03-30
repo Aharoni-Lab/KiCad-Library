@@ -1,4 +1,4 @@
-(module LED_LXZ1_PR01_L (layer F.Cu) (tedit 5C1940E7)
+(module LED_LXZ1_PR01_L (layer F.Cu) (tedit 5C9E97F8)
   (descr "LED, Chip; 1.30 mm L X 1.70 mm W X 0.76 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.Fab)
