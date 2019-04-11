@@ -1,4 +1,4 @@
-(module R_0402_1005Metric_ERJ_L (layer F.Cu) (tedit 5CAF07DB)
+(module R_0402_1005Metric_ERJ_L (layer F.Cu) (tedit 5C2ED77C)
   (descr "Resistor, Chip; 1.00 mm L X 0.50 mm W X 0.40 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.Fab)
@@ -30,9 +30,9 @@
   (fp_line (start -0.8 -0.38) (end 0.8 -0.38) (layer F.CrtYd) (width 0.05))
   (fp_line (start 0.8 -0.38) (end 0.8 0.38) (layer F.CrtYd) (width 0.05))
   (fp_line (start 0.8 0.38) (end -0.8 0.38) (layer F.CrtYd) (width 0.05))
-  (fp_circle (center 0 0) (end 0.1425 0) (layer Dwgs.User) (width 0.05))
-  (fp_line (start 0.19 0) (end -0.19 0) (layer Dwgs.User) (width 0.05))
-  (fp_line (start 0 -0.19) (end 0 0.19) (layer Dwgs.User) (width 0.05))
+  (fp_circle (center 0 0) (end 0 0.1425) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 0.19 0) (end -0.19 0) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 0 -0.19) (end 0 0.19) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -0.455 0) (size 0.49 0.56) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.455 0) (size 0.49 0.56) (layers F.Cu F.Paste F.Mask))
   (model ${KICAD_AHARONI_LAB}/Modules/Resistor.pretty/R_0402_1005Metric_ERJ_L.STEP
