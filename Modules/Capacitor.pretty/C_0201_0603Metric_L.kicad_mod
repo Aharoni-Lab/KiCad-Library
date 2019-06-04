@@ -1,4 +1,4 @@
-(module C_0201_0603Metric_L (layer F.Cu) (tedit 5C18ACD5)
+(module C_0201_0603Metric_L (layer F.Cu) (tedit 5CF5D71B)
   (descr "Capacitor, Chip; 0.60 mm L X 0.30 mm W X 0.33 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.Fab)
@@ -30,9 +30,9 @@
   (fp_line (start -0.53 -0.27) (end 0.53 -0.27) (layer F.CrtYd) (width 0.05))
   (fp_line (start 0.53 -0.27) (end 0.53 0.27) (layer F.CrtYd) (width 0.05))
   (fp_line (start 0.53 0.27) (end -0.53 0.27) (layer F.CrtYd) (width 0.05))
-  (fp_circle (center 0 0) (end 0 0.1013) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 0.135 0) (end -0.135 0) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 0 -0.135) (end 0 0.135) (layer F.CrtYd) (width 0.05))
+  (fp_circle (center 0 0) (end 0.1013 0) (layer Dwgs.User) (width 0.05))
+  (fp_line (start 0.135 0) (end -0.135 0) (layer Dwgs.User) (width 0.05))
+  (fp_line (start 0 -0.135) (end 0 0.135) (layer Dwgs.User) (width 0.05))
   (pad 1 smd rect (at -0.275 0) (size 0.31 0.34) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.275 0) (size 0.31 0.34) (layers F.Cu F.Paste F.Mask))
   (model ${KICAD_AHARONI_LAB}/Modules/Capacitor.pretty/C_0201_0603Metric_L.STEP
