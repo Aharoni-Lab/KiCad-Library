@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MT9P031
+F https://www.onsemi.com/pub/Collateral/MT9P031-D.PDF
+$ENDCMP
+#
 $CMP NOIP1SN0480A
 D PYTHON 0.48 Megapixel
 K CMOS Imaging Sensor
