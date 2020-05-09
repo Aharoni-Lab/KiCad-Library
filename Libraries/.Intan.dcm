@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RHD2132
+F http://intantech.com/files/Intan_RHD2000_series_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

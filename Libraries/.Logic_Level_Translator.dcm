@@ -6,4 +6,10 @@ K sd card
 F https://datasheets.maximintegrated.com/en/ds/MAX13030E-MAX13035E.pdf
 $ENDCMP
 #
+$CMP PCA9509AGM
+D IC REDRIVER I2C 2CH 400KHZ 8XQFN
+K I2C Buffer
+F https://www.nxp.com/docs/en/data-sheet/PCA9509A.pdf
+$ENDCMP
+#
 #End Doc Library

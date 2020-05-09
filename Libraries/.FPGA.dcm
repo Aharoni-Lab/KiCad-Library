@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MAX10-10M08DCU324
+F https://www.intel.la/content/dam/www/programmable/us/en/pdfs/literature/pt/max-10-product-table.pdf
+$ENDCMP
+#
 #End Doc Library
