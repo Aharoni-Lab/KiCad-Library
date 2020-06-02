@@ -12,6 +12,11 @@ K LVDS Reciever
 F http://www.ti.com/lit/ds/symlink/ds90lv018a.pdf
 $ENDCMP
 #
+$CMP ISO1042-Q1
+D Isolated CAN transceiver with 70-V bus fault protection & flexible data rate
+F http://www.ti.com/lit/ds/symlink/iso1042-q1.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1590295833549
+$ENDCMP
+#
 $CMP TCAN332
 D High-Speed CAN Transceiver, 1Mbps, 3.3V supply, SOT-23-8/SOIC-8
 K High-Speed CAN Transceiver
