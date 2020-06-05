@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI8610CB
+D General Purpose Digital Isolator
+F https://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
