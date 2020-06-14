@@ -1,4 +1,7 @@
-(module SS_5046223412 (layer F.Cu) (tedit 5EE45F04)
+(module SS_5046223412 (layer F.Cu) (tedit 5EE58B23)
+  (descr "Molex 34 pin Slim Stack Connector 0.35mm pitch")
+  (tags "Slim Stack")
+  (attr smd)
   (fp_text reference REF** (at 0.475 -2.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
