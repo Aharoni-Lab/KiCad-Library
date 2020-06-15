@@ -6,8 +6,13 @@ K quartz ceramic resonator oscillator
 F https://abracon.com/Resonators/ABM8G.pdf
 $ENDCMP
 #
+$CMP SMD_CRYSTAL
+D 2.5mm x 2mm
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
 $CMP SiT_2.5mmx2mm
-D MEMS OSC XO 
+D MEMS OSC XO
 K MEMS OSC
 F https://www.sitime.com/datasheet/SiT8008
 $ENDCMP
