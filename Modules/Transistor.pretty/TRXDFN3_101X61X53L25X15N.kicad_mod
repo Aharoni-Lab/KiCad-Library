@@ -1,4 +1,4 @@
-(module TRXDFN3_101X61X53L25X15N (layer F.Cu) (tedit 5C9E9F23)
+(module TRXDFN3_101X61X53L25X15N (layer F.Cu) (tedit 5F053EEA)
   (descr "Transistor, Dual Flat No-Lead (DFN 3 Pins), 0.65 mm pitch; 3 pin, 1.013 mm L X 0.613 mm W X 0.53 mm H body")
   (attr smd)
   (fp_text reference REF** (at 0.675 -1.475) (layer F.SilkS)
@@ -47,6 +47,6 @@
   (model ${KICAD_AHARONI_LAB}/Modules/Transistor.pretty/TRXDFN3_101X61X53L25X15.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
