@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CYUSB3014
+D EZ-USB® FX3:SuperSpeed USB Controller
+F https://www.cypress.com/file/140296/download
+$ENDCMP
+#
 $CMP DS90LV017A
 D IC DRIVER SINGLE HS DIFF 8-SOIC
 K LVDS Transmitter
