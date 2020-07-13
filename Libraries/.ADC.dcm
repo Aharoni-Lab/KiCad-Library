@@ -6,4 +6,10 @@ K 16bit DAS ADC 16channel 1MSPS
 F http://www.analog.com/media/en/technical-documentation/data-sheets/AD7616.pdf
 $ENDCMP
 #
+$CMP RHD2132
+D Digital Electrophysiology Interface Chip
+K Intan
+F http://intantech.com/files/Intan_RHD2000_series_datasheet.pdf
+$ENDCMP
+#
 #End Doc Library

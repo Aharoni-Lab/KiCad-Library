@@ -1,3 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MAX15053
+F https://datasheets.maximintegrated.com/en/ds/MAX15053.pdf
+$ENDCMP
+#
+$CMP SC189xULTRT
+D 2.5MHz, 1.5A Synchronous Step Down Regulator
+F https://www.mouser.com/datasheet/2/761/sc189-1366204.pdf
+$ENDCMP
+#
 #End Doc Library

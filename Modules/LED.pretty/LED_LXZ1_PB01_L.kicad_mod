@@ -1,5 +1,6 @@
-(module LED_LXZ1_PR01_L (layer F.Cu) (tedit 5F02540B)
+(module LED_LXZ1_PB01_L (layer F.Cu) (tedit 5F02526C)
   (descr "LED, Chip; 1.30 mm L X 1.70 mm W X 0.76 mm H body")
+  (tags "470 nm Blue LED")
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.1)))
@@ -36,9 +37,9 @@
   (fp_circle (center 0 0.195) (end 0.02 0.195) (layer F.SilkS) (width 0.15))
   (pad A smd rect (at -0.35 0) (size 0.45 1.5) (layers F.Cu F.Paste F.Mask))
   (pad C smd rect (at 0.35 0) (size 0.45 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KICAD_AHARONI_LAB}/Modules/LED.pretty/LED_LXZ1_PR01_L.STEP
-    (at (xyz 0 0 0))
+  (model "${KICAD_AHARONI_LAB}/Modules/LED.pretty/LED_LXZ1_PB01_L (Royal Blue).STEP"
+    (offset (xyz 0.04 0.29 0.3454))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz -90 0 180))
   )
 )

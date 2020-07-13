@@ -10,4 +10,9 @@ D Power flag, -13VA
 K power-flag
 $ENDCMP
 #
+$CMP NCP360
+D USB Positive Overvoltage
+F https://www.onsemi.com/pub/Collateral/NCP360-D.PDF
+$ENDCMP
+#
 #End Doc Library

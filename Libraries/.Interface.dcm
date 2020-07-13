@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CYUSB3014
+D EZ-USB® FX3:SuperSpeed USB Controller
+F https://www.cypress.com/file/140296/download
+$ENDCMP
+#
 $CMP DS90LV017A
 D IC DRIVER SINGLE HS DIFF 8-SOIC
 K LVDS Transmitter
@@ -10,6 +15,16 @@ $CMP DS90LV018A
 D IC LINE RVR LVDS SINGL DIF 8SOIC
 K LVDS Reciever
 F http://www.ti.com/lit/ds/symlink/ds90lv018a.pdf
+$ENDCMP
+#
+$CMP ISO1042-Q1
+D Isolated CAN transceiver with 70-V bus fault protection & flexible data rate
+F http://www.ti.com/lit/ds/symlink/iso1042-q1.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1590295833549
+$ENDCMP
+#
+$CMP SP3010-04UTG
+D TVS Diode Array
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3010_datasheet.pdf.pdf
 $ENDCMP
 #
 $CMP TCAN332
