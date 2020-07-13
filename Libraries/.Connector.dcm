@@ -86,4 +86,9 @@ K test point tp
 F ~
 $ENDCMP
 #
+$CMP USB3_micro-B
+D SB - micro B USB 3.0 (USB 3.1 Gen 1, Superspeed) Receptacle Connector 10 Position Surface Mount, Right Angle; Through Hole
+F file:///C:/Users/DBAharoni/Downloads/ZX360_CL0242-0500-1-30_2d.pdf
+$ENDCMP
+#
 #End Doc Library
