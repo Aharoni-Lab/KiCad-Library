@@ -1,4 +1,4 @@
-(module M24M02-R (layer F.Cu) (tedit 5F092C5F)
+(module M24M02-R (layer F.Cu) (tedit 5F0D3197)
   (fp_text reference REF** (at 0.1 -1.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -18,4 +18,9 @@
   (pad D3 smd circle (at 1.05 -0.5) (size 0.27 0.27) (layers F.Cu F.Paste F.Mask))
   (pad D2 smd circle (at 1.05 0.5) (size 0.27 0.27) (layers F.Cu F.Paste F.Mask))
   (pad C1 smd circle (at 0.55 0.7) (size 0.27 0.27) (layers F.Cu F.Paste F.Mask))
+  (model ${KICAD_AHARONI_LAB}/Modules/Memory.pretty/M24M02_WLCSP-8.step
+    (offset (xyz 0 0 0.19))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -0))
+  )
 )
