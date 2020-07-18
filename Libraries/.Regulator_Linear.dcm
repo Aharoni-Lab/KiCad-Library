@@ -10,6 +10,11 @@ $CMP NCP690MN50T2G(5V)
 F https://www.onsemi.com/pub/Collateral/NCP690-D.PDF
 $ENDCMP
 #
+$CMP NCV8154
+D Voltage Regulator - Dual 300mA fixed
+F https://www.onsemi.com/pub/Collateral/NCV8154-D.PDF
+$ENDCMP
+#
 $CMP TLV7103318DSER
 D Dual, 200mA, Low-Iq, Low-Dropout Regulator, Fixed Output 3.3V and 1.8V, SON-6
 K LDO Dual Regulator Fixed Positive
