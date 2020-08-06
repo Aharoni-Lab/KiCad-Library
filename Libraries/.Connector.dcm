@@ -10,6 +10,11 @@ $CMP 10144517-08X802LF
 D Amphenol connector. Receptacle
 $ENDCMP
 #
+$CMP 2134441-2
+D Micro USB-B Receptacle
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2134441&DocType=Customer+Drawing&DocLang=JP
+$ENDCMP
+#
 $CMP 232-5205-01
 D CONN SOCKET QFN 32POS GOLD
 K qfn32 socket
@@ -89,6 +94,11 @@ $ENDCMP
 $CMP USB3_micro-B
 D SB - micro B USB 3.0 (USB 3.1 Gen 1, Superspeed) Receptacle Connector 10 Position Surface Mount, Right Angle; Through Hole
 F file:///C:/Users/DBAharoni/Downloads/ZX360_CL0242-0500-1-30_2d.pdf
+$ENDCMP
+#
+$CMP USB4110-GF-A
+D USB-C Receptacle
+F https://gct.co/files/drawings/usb4110.pdf
 $ENDCMP
 #
 #End Doc Library
