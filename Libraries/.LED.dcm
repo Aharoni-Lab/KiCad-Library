@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP APHF1608SEEQBDZGKC
+D LED RGB CLEAR 4SMD, Common Anode, 1.6mm x 0.8mm
+K LED RGB SMD Kingbright
+F https://www.kingbrightusa.com/images/catalog/SPEC/APHF1608SEEQBDZGKC.pdf
+$ENDCMP
+#
 $CMP LTST-C155GEKT
 D Dual LED, cathodes on pins 3 and 4
 K LED diode bicolor dual
