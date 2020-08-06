@@ -1,15 +1,45 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CRCW02012R20FXED
+D 2.2 Ohms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Thick Film
+K r resistor
+F https://www.vishay.com/docs/20052/crcw0201e3.pdf
+$ENDCMP
+#
 $CMP ERJ-1GEF1022C
 D RES SMD 10.2K OHM 1% 1/20W 0201
 K r resistor
 F https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Resistors%20Thermistors%20PDFs/ERJ-G,R,E_Series_Rev_Oct_2014.pdf
 $ENDCMP
 #
+$CMP ERJ-1GNF1872C
+D RES SMD 18.7K OHM 1% 1/20W 0201
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
 $CMP ERJ-2RKF1000X
 D RES SMD 100 OHM 1% 1/10W 0402
 K r resistor
 F https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Resistors%20Thermistors%20PDFs/ERJ-G,R,E_Series_Rev_Oct_2014.pdf
+$ENDCMP
+#
+$CMP RC0201FR-07100KL
+D RES SMD 100K OHM 1% 1/20W 0201
+K r resistor
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0201FR-073KL
+D RES SMD 3K OHM 1% 1/20W 0201
+K r resistor
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0201FR-075K62L
+D RES SMD 5.62K OHM 1% 1/20W 0201
+K r resistor
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -12,10 +12,22 @@ K inductor
 F https://www.murata.com/en-us/products/productdata/8796738650142/ENFA0003.pdf
 $ENDCMP
 #
+$CMP LB1608T100M
+D FIXED IND 10UH 60MA 700 MOHM SMD
+K inductor
+F https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=LB1608T100M%20%20&u=M
+$ENDCMP
+#
 $CMP LQM18PN3R3MGHD
 D FIXED IND 3.3UH 1.05A 250 MOHM
 K inductor
 F http://search.murata.co.jp/Ceramy/image/img/P02/JELF243B-0047.pdf
+$ENDCMP
+#
+$CMP MLF1005G1R5JTD25
+D FIXED IND 1.5UH 35MA 950MOHM SMD
+K inductor
+F https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_standard_mlf1005_en.pdf
 $ENDCMP
 #
 $CMP VLS3012HBX-2R2M

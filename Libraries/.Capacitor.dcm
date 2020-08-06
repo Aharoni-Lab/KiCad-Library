@@ -1,9 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CL10A226KQ8NRNE
+D CAP CER 22UF 6.3V X5R 0603
+K capacitor cap
+F https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10A226KQ8NRNE_Spec_5-2-19.pdf
+$ENDCMP
+#
+$CMP CL10B472KC8WPJC
+D CAP CER 4.7NF 100V X7R 0603
+K capacitor cap
+F http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B472KC8WPJC.jsp
+$ENDCMP
+#
 $CMP CL32A476KOJNNNE
 D CAP CER 47UF 16V X5R 1210
 K capacitor cap
 F http://www.samsungsem.com/kr/support/product-search/mlcc/CL32A476KOJNNNE.jsp
+$ENDCMP
+#
+$CMP CQ0201JRNPO8BN100
+D CAP CER 10PF 25V NPO 0201
+K capacitor cap
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-High_Q_NP0_16V-to-250V_15.pdf
 $ENDCMP
 #
 $CMP GCJ188R71E104KA12D
@@ -46,6 +64,12 @@ $CMP GRM033R61A225ME47D
 D CAP CER 2.2UF 10V X5R 0201
 K capacitor cap
 F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61A225ME47-01.pdf
+$ENDCMP
+#
+$CMP GRM033R70J332KA01D
+D CAP CER 3300PF 6.3V X7R 0201
+K capacitor cap
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us
 $ENDCMP
 #
 $CMP GRM033R71A103KA01D
