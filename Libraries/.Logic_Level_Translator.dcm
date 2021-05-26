@@ -1,11 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP ADG3301
-D Voltage Level Translator Bidirectional 1 Circuit 1 Channel 50Mbps SC-70 
+D Voltage Level Translator Bidirectional 1 Circuit 1 Channel 50Mbps SC-70
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG3301.pdf
 $ENDCMP
 #
 $CMP MAX13030EETE+
+D IC TRNSLTR BIDIRECTIONAL 16TQFN
+K sd card
+F https://datasheets.maximintegrated.com/en/ds/MAX13030E-MAX13035E.pdf
+$ENDCMP
+#
+$CMP MAX13030EETE+BGA
 D IC TRNSLTR BIDIRECTIONAL 16TQFN
 K sd card
 F https://datasheets.maximintegrated.com/en/ds/MAX13030E-MAX13035E.pdf
