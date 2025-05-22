@@ -1,3 +1,5 @@
+This repo is now deprecated. New lab-wide components should go into the new kicad-lab-library repo.
+
 # KiCad-Library
 
 KiCad-Library holds the schematics and footprints for all components used in the Aharoni Lab.
